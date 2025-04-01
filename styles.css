@@ -1,0 +1,75 @@
+body
+{
+    font-family: Helvetica, sans-serif;
+    font-size: 24px
+}
+
+h1
+{
+    color: #008000;
+}
+
+.container
+{
+    align-content: center;
+}
+
+.nav-pad
+{
+    padding: 2%;
+    margin: 5% 2%;
+}
+
+.centered 
+{
+    text-align: center !important; 
+    vertical-align: middle;
+}
+
+#top-nav-bar
+{
+    padding: 2% 0%;
+}
+
+#tl-logo
+{
+    height: fit-content;
+    width: 15%;
+}
+
+#pura-vida
+{
+    font-size: 96px;
+    font-size-adjust: auto;
+    font-weight: bolder;
+}
+
+#main-image
+{
+    padding: 2%;
+    margin: 1% 0px;
+}
+
+#paragraph
+{
+    padding: 3%;
+    margin: 3%;
+}
+
+
+
+
+.preview
+{
+    background-color: lightgray;
+}
+
+.preview2
+{
+    background-color: lightblue;
+}
+
+.preview3
+{
+    background-color: lightpink;
+}
